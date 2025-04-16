@@ -1,0 +1,1 @@
+﻿public enum CellType { Empty, Tree, Rock, Tower }
